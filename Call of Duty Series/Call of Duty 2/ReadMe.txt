@@ -1,0 +1,1 @@
+move to <Game Install Location>\main\players\

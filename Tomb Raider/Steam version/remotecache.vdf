@@ -1,0 +1,39 @@
+"203160"
+{
+	"profile.macdat"
+	{
+		"root"		"0"
+		"size"		"385"
+		"localtime"		"1588457048"
+		"time"		"1588457048"
+		"remotetime"		"1588457048"
+		"sha"		"306b7a0d4092682d90093102357800275830d7e1"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"save1.macdat"
+	{
+		"root"		"0"
+		"size"		"135788"
+		"localtime"		"1588457028"
+		"time"		"1588457028"
+		"remotetime"		"1588457028"
+		"sha"		"71a2b525ebc9c20f40c6d03939ec700b69c65640"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"lastcamp.macdat"
+	{
+		"root"		"0"
+		"size"		"129784"
+		"localtime"		"1588455176"
+		"time"		"1588455176"
+		"remotetime"		"1588455176"
+		"sha"		"47d7a654c6d006e6112cf121e63a5d5d13b6ff36"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
